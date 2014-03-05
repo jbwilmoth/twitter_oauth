@@ -18,5 +18,3 @@ gem 'shotgun'
 
 gem 'oauth'
 gem 'twitter'
-
-
