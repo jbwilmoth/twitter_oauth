@@ -1,4 +1,4 @@
-source :rubygems
+source 'https://rubygems.org'
 
 # PostgreSQL driver
 gem 'pg'
@@ -18,6 +18,5 @@ gem 'shotgun'
 
 gem 'oauth'
 gem 'twitter'
-gem 'pry'
-gem 'pry-nav'
+
 
